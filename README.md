@@ -1,5 +1,5 @@
 # torrent
-implementing torrent service
+develope tity torrent service
 
 https://www.netmanias.com/ko/?m=view&id=techdocs&no=5185
 
